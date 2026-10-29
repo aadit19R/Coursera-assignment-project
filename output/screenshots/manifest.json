@@ -1,0 +1,186 @@
+{
+  "source": "Native VS Code screenshots captured with cua_repl",
+  "fingerprint": "f1bf59876e2da6d3ba2dc8e2965d69672944c355d960d72ed1ec46fc661056f7",
+  "images": {
+    "connection": {
+      "file": "connection.png",
+      "original": "vscode_connection_full.png",
+      "crop": [
+        965,
+        856,
+        1900,
+        917
+      ]
+    },
+    "reset": {
+      "file": "reset.png",
+      "original": "vscode_reset_full.png",
+      "crop": [
+        965,
+        935,
+        1920,
+        991
+      ]
+    },
+    "tables": {
+      "file": "tables.png",
+      "original": "vscode_tables_full.png",
+      "crop": [
+        965,
+        608,
+        1475,
+        1106
+      ]
+    },
+    "insertion": {
+      "file": "insertion.png",
+      "original": "vscode_insertion_full.png",
+      "crop": [
+        965,
+        605,
+        1580,
+        657
+      ]
+    },
+    "Customers": {
+      "file": "Customers.png",
+      "original": "vscode_contents_4_full.png",
+      "crop": [
+        965,
+        354,
+        2475,
+        686
+      ]
+    },
+    "Restaurants": {
+      "file": "Restaurants.png",
+      "original": "vscode_contents_4_full.png",
+      "crop": [
+        965,
+        804,
+        2138,
+        1137
+      ]
+    },
+    "MenuItems": {
+      "file": "MenuItems.png",
+      "original": "vscode_contents_3_full.png",
+      "crop": [
+        965,
+        355,
+        2015,
+        744
+      ]
+    },
+    "DeliveryAgents": {
+      "file": "DeliveryAgents.png",
+      "original": "vscode_contents_3_full.png",
+      "crop": [
+        965,
+        857,
+        2027,
+        1188
+      ]
+    },
+    "Orders": {
+      "file": "Orders.png",
+      "original": "vscode_contents_2_full.png",
+      "crop": [
+        965,
+        412,
+        2378,
+        800
+      ]
+    },
+    "OrderItems": {
+      "file": "OrderItems.png",
+      "original": "vscode_contents_2_full.png",
+      "crop": [
+        965,
+        914,
+        1753,
+        1406
+      ]
+    },
+    "Payments": {
+      "file": "Payments.png",
+      "original": "vscode_contents_1_full.png",
+      "crop": [
+        965,
+        626,
+        2099,
+        1015
+      ]
+    },
+    "Reviews": {
+      "file": "Reviews.png",
+      "original": "vscode_contents_1_full.png",
+      "crop": [
+        965,
+        1127,
+        2277,
+        1458
+      ]
+    },
+    "q1": {
+      "file": "q1.png",
+      "original": "vscode_q1_full.png",
+      "crop": [
+        965,
+        1097,
+        1793,
+        1429
+      ]
+    },
+    "q2": {
+      "file": "q2.png",
+      "original": "vscode_q2_full.png",
+      "crop": [
+        965,
+        1179,
+        1563,
+        1351
+      ]
+    },
+    "q3": {
+      "file": "q3.png",
+      "original": "vscode_q3_full.png",
+      "crop": [
+        965,
+        1137,
+        1532,
+        1310
+      ]
+    },
+    "q4": {
+      "file": "q4.png",
+      "original": "vscode_q4_full.png",
+      "crop": [
+        965,
+        1096,
+        1557,
+        1426
+      ]
+    },
+    "q5": {
+      "file": "q5.png",
+      "original": "vscode_q5_full.png",
+      "crop": [
+        965,
+        1013,
+        1653,
+        1188
+      ]
+    },
+    "close": {
+      "file": "close.png",
+      "original": "vscode_close_full.png",
+      "crop": [
+        965,
+        510,
+        1412,
+        565
+      ]
+    }
+  }
+}
