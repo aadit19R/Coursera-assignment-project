@@ -1,0 +1,6 @@
+mysql-connector-python
+pandas
+python-dotenv
+nbformat
+reportlab
+PyMuPDF
